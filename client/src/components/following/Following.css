@@ -1,0 +1,14 @@
+.rightbarFollowing{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.rightbarFollowingImg{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    object-fit: cover;
+}
